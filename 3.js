@@ -1,4 +1,4 @@
 function(){
 	alert("23333");
-	alert("二次");
+	alert("3次");
 }
